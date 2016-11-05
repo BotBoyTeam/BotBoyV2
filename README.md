@@ -1,13 +1,13 @@
 # BotBoy Version 2.
 ###### Node will error if this gets restarted too much. I don't know why.
-* ###### [Installation](#installation)
-* ###### [Usage](#usage)
-  * ###### [Prefixes](#prefixes)
-  * ###### [Calls](#calls)
-  * ###### [Call Structure](#call_structure)
-  * ###### [Error Codes](#error_codes)
-* ###### [Customization](#customization)
-* ###### [Contributing](#contributing)
+* [Installation](#installation)
+* [Usage](#usage)
+  * [Prefixes](#prefixes)
+  * [Calls](#calls)
+  * [Call Structure](#call_structure)
+  * [Error Codes](#error_codes)
+* [Customization](#customization)
+* [Contributing](#contributing)
 
 ### Installation
 Extract the bot and use the command:
