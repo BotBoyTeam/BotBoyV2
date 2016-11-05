@@ -4,8 +4,8 @@
 * [Usage](#usage)
   * [Prefixes](#prefixes)
   * [Calls](#calls)
-  * [Call Structure](#call_structure)
-  * [Error Codes](#error_codes)
+  * [Call Structure](#call-structure)
+  * [Error Codes](#error-codes)
 * [Customization](#customization)
 * [Contributing](#contributing)
 
