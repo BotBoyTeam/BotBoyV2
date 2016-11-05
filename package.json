@@ -1,0 +1,26 @@
+{
+  "name": "BotBoy",
+  "description": "One talkative bot.",
+  "version": "2.0.1",
+  "license": "Apache-2.0",
+  "author": "Snazzah <snazzah@discorddungeons.me>",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SnazzyPine25/BotBoyV2"
+  },
+  "bugs": {
+    "url": "https://github.com/SnazzyPine25/BotBoyV2/issues"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^10.0.1",
+    "rethinkdb": "^2.3.3",
+    "path": "^0.12.7",
+    "superagent": "^2.3.0",
+		"cleverbot-node": "^0.2.2"
+  }
+}
