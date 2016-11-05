@@ -1,5 +1,5 @@
 # BotBoy Version 2.
-###### Node will error if this gets restarted too much. I don't know why.
+###### This could have your process runnout of memory!
 * [Installation](#installation)
 * [Usage](#usage)
   * [Prefixes](#prefixes)
