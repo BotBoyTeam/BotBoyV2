@@ -11,7 +11,7 @@
 
 ### Installation
 Extract the bot and use the command:
-```ruby
+```py
 $ npm i
 ```
 
