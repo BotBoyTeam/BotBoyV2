@@ -1,4 +1,6 @@
-module.exports = function(date, str){
+module.exports = function(timestamp, str){
+    let date = new Date();
+    date.setTime(timestamp)
 	str = str ? str : "%B %d, %Y, %T"
 	let format = {
 		"%%": "%",
